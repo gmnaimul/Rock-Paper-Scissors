@@ -36,6 +36,16 @@ UI Elements: Custom styles and layouts are applied to buttons and labels for a m
 
 ### Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to fork the repository and create a pull request.
+### Images: 
+images: 
+
+<img width="576" alt="Image" src="https://github.com/user-attachments/assets/5771c71e-5464-448e-bf3f-190774f00758" />
+
+<img width="576" alt="Image" src="https://github.com/user-attachments/assets/4d387b7c-f9a8-4971-b13c-3a69b74a136f"/>
+
+<img width="576" alt="Image" src="https://github.com/user-attachments/assets/c58e83bc-7b8e-40ab-81b0-f53303801c39"/>
+
+
 
 
 
